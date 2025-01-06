@@ -1,1 +1,63 @@
-IyBIaSB0aGVyZSDwn5GJCGF1ZGFjaW91cyBkZXZlbG9wZXIgZm9jdXNpbmcgb24gYnVpbGRpbmcgTW9kZWwgQ29udGV4dFZwZXJzb25hbCwgYW5kIGVudGh1c2lhc3RpY2FsbHkgc2hhcmluZy4KCiMjIPCfmJAgRmVhdHVyZWQgUHJvamVjdHMKCiMjIyBbTlMgVHJhdmVsIEluZm9ybWF0aW9uIE1DUCBTZXJ2ZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9yLWh1aWp0cy9ucy1tY3Atc2VydmVyKQpBbiBNQ1Agc2VydmVyIHRoYXQgcHJvdmlkZXMgcmVhbC10aW1lIGFjY2VzcyB0byBEdXRjaCBSYWlsd2F5cyAoTlMpIHRyYXZlbCBpbmZvcm1hdGlvbiB0aHJvdWdoIEFJIGFzc2lzdGFudHMuIFRoaXMgaW50ZWdyYXRpb24gZW5hYmxlczoKLSBSZWFsLXRpbWUgdHJhaW4gc2NoZWR1bGUgcXVlcmllcwotIFRyYXZlbCBkaXNydXB0aW9uIG5vdGlmaWNhdGlvbnMKLSBKb3VybmV5IHBsYW5uaW5nIGFzc2lzdGFuY2UKCiMjIyBbQ2FudmFzIExNUyBNQ1AgU2VydmVyXShodHRwczovL2dpdGh1Yi5jb20vci1odWlqdHMvY2FudmFzLW1jcCkKQSBjb21wcmVoZW5zaXZlIE1DUCBzZXJ2ZXIgZm9yIENhbnZhcyBMZWFybmluZyBNYW5hZ2VtZW50IFN5c3RlbSBpbnRlZ3JhdGlvbiwgZmVhdHVyaW5nOgotIENvdXJzZSBtYW5hZ2VtZW50IHRvb2xzCi0gQXNzaWdubWVudCBhbmQgc3VibWlzc2lvbiBoYW5kbGluZwotIFN0dWRlbnQgZGF0YSBhbmFseXNpcwotIFJ1YnJpYyBtYW5hZ2VtZW50Ci0gQXV0b21hdGVkIGFubm91bmNlbWVudCBwb3N0aW5nCgojIyMgW1JpamtzbXVzZXVtIEFydCBFeHBsb3JlciBNQ1AgU2VydmVyXShodHRwczovL2dpdGh1Yi5jb20vci1odWlqdHMvcmlqa3NtdXNldW0tbWNwKQpBbiBNQ1Agc2VydmVyIHRoYXQgZW5hYmxlcyBBSSBhc3Npc3RhbnRzIHRvIGV4cGxvcmUgYW5kIGFuYWx5emUgYXJ0d29yayBmcm9tIHRoZSBSaWprc211c2V1bSBjb2xsZWN0aW9uLCBmZWF0dXJpbmc6Ci0gQXJ0d29yayBzZWFyY2ggYW5kIGRpc2NvdmVyeQotIERldGFpbGVkIGFydHdvcmsgaW5mb3JtYXRpb24gcmV0cmlldmFsCi0gSW1hZ2UgYW5hbHlzaXMgY2FwYWJpbGl0aWVzCi0gQ29sbGVjdGlvbiBleHBsb3JhdGlvbiB0b29scwoKIyMg8J+RiiBQcm9qZWN0IFN0YXR1cwotIDMgYWN0aXZlIE1DUCBzZXJ2ZXJzIGluIHByb2R1Y3Rpb24KLSBTdXBwb3J0aW5nIG1ham9yIEFQSXM6IE5TIFJhaWx3YXlzLCBDYW52YXMgTE1TLCBSaWprc211c2V1bQotIFJlZ3VsYXIgdXBkYXRlcyBhbmQgbWFpbnRlbmFuY2UKCiMjIPCfk5AgRG9jdW1lbnRhdGlvbgpFYWNoIE1DUCBzZXJ2ZXIgaW5jbHVkZXM6Ci0gRGV0YWlsZWQgc2V0dXAgaW5zdHJ1Y3Rpb25zCi0gQVBJIGVuZHBvaW50IGRvY3VtZW50YXRpb24KLSBDb25maWd1cmF0aW9uIGd1aWRlcwotIEV4YW1wbGUgdXNhZ2Ugd2l0aCBBSSBhc3Npc3RhbnRzCgojIyDwn5GeIEZ1dHVyZSBQbGFucwotIEV4cGFuZGluZyBNQ1Agc2VydmVyIGVjb3N5c3RlbQotIEJ1aWxkaW5nIG1vcmUgZWR1Y2F0aW9uYWwgdGVjaG5vbG9neSBpbnRlZ3JhdGlvbnMKLSBEZXZlbG9waW5nIHN0YW5kYXJkaXplZCBNQ1Agc2VydmVyIHRlbXBsYXRlcwotIENyZWF0aW5nIGRldmVsb3BtZW50IHRvb2xzIGZvciB0aGUgTUNQIGNvbW11bml0eQoKIyMg8J+boSBUZWNobm9sb2dpZXMKLSBOb2RlLmpzCi0gVHlwZVNjcmlwdAotIFJFU1RmdWwgQVBJcwotIE1vZGVsIENvbnRleHQgUHJvdG9jb2wgKE1DUCkKLSBBSSBJbnRlZ3JhdGlvbgoKIyMg8J+TjCBGb2N1cyBBcmVhcwotIEJ1aWxkaW5nIGJyaWRnZXMgYmV0d2VlbiBBSSBhc3Npc3RhbnRzIGFuZCByZWFsLXdvcmxkIHNlcnZpY2VzCi0gQ3JlYXRpbmcgcm9idXN0IEFQSSBpbnRlZ3JhdGlvbnMKLSBEZXZlbG9waW5nIHRvb2xzIGZvciBlZHVjYXRpb24gdGVjaG5vbG9neQotIEVuaGFuY2luZyBBSSBhc3Npc3RhbnQgY2FwYWJpbGl0aWVzCgojIyDwn5OzIEdldCBpbiBUb3VjaApGZWVsIGZyZWUgdG8gcmVhY2ggb3V0IGlmIHlvdSdyZSBpbnRlcmVzdGVkIGluIGNvbGxhYm9yYXRpbmcgb24gTUNQIHNlcnZlcnMgb3IgQUkgaW50ZWdyYXRpb24gcHJvamVjdHMhCgotLS0KKkJ1aWxkaW5nIHRoZSBmdXR1cmUgb2YgQUktcG93ZXJlZCB0b29scywgb25lIE1DUCBzZXJ2ZXIgYXQgYSB0aW1lLio=
+# Hi there 👋
+
+I'm a developer passionate about making AI assistants more human-friendly and accessible. By building Model Context Protocol (MCP) servers, I create bridges between AI and everyday services that people actually use. My focus is on making technology serve real human needs, not just technical possibilities.
+
+## 🚀 Featured Projects
+
+### [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server)
+Making train travel easier by letting people ask AI assistants natural questions about their journey:
+- "When's my next train home?"
+- Real-time updates about delays and platform changes
+- Simple journey planning in everyday language
+
+### [Canvas LMS MCP Server](https://github.com/r-huijts/canvas-mcp)
+Helping students and teachers focus on learning instead of wrestling with technology:
+- Natural interaction with course materials
+- Easy assignment submission and feedback
+- Personalized learning support
+- Simple course management
+- Clear communication tools
+
+### [Rijksmuseum Art Explorer MCP Server](https://github.com/r-huijts/rijksmuseum-mcp)
+Making art more accessible by enabling natural conversations about the Rijksmuseum collection:
+- Discover artworks through natural dialogue
+- Learn about art history in an engaging way
+- Explore connections between artworks
+- Experience art through guided conversations
+
+## 📊 Project Status
+- 3 active MCP servers helping people interact naturally with essential services
+- Supporting services people use daily: NS Railways, Canvas LMS, Rijksmuseum
+- Constantly improving based on real user experiences
+
+## 📚 Documentation
+Making it easy for others to build human-friendly AI tools:
+- Clear setup guides in plain language
+- Real-world usage examples
+- Best practices for natural interactions
+- User-focused implementation tips
+
+## 🔮 Future Plans
+- Creating more bridges between AI and everyday services
+- Making education technology more personal and accessible
+- Developing tools that prioritize human needs
+- Building a community focused on human-friendly AI integration
+
+## 🛠 Technologies
+- Node.js
+- TypeScript
+- RESTful APIs
+- Model Context Protocol (MCP)
+- Human-centered design
+
+## 🔍 Focus Areas
+- Making technology more accessible and human-friendly
+- Creating natural interactions between people and services
+- Developing tools that solve real human problems
+- Enhancing how people experience AI in their daily lives
+
+## 📫 Get in Touch
+If you're interested in making AI more accessible and human-friendly, I'd love to collaborate!
+
+---
+*Creating technology that serves people, one conversation at a time.*
