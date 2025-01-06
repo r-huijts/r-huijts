@@ -18,6 +18,31 @@ A comprehensive MCP server for Canvas Learning Management System integration, fe
 - Rubric management
 - Automated announcement posting
 
+### [Rijksmuseum Art Explorer MCP Server](https://github.com/r-huijts/rijksmuseum-mcp)
+An MCP server that enables AI assistants to explore and analyze artwork from the Rijksmuseum collection, featuring:
+- Artwork search and discovery
+- Detailed artwork information retrieval
+- Image analysis capabilities
+- Collection exploration tools
+
+## 📊 Project Status
+- 3 active MCP servers in production
+- Supporting major APIs: NS Railways, Canvas LMS, Rijksmuseum
+- Regular updates and maintenance
+
+## 📚 Documentation
+Each MCP server includes:
+- Detailed setup instructions
+- API endpoint documentation
+- Configuration guides
+- Example usage with AI assistants
+
+## 🔮 Future Plans
+- Expanding MCP server ecosystem
+- Building more educational technology integrations
+- Developing standardized MCP server templates
+- Creating development tools for the MCP community
+
 ## 🛠 Technologies
 - Node.js
 - TypeScript
