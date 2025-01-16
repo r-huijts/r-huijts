@@ -4,6 +4,20 @@ I'm a developer passionate about making AI assistants more human-friendly and ac
 
 ## 🚀 Featured Projects
 
+### [Xcode MCP Server](https://github.com/r-huijts/xcode-mcp-server)
+Bringing the power of AI assistance directly into Xcode:
+- Seamless integration with development workflow
+- Natural language interaction with Xcode projects
+- Smart code analysis and suggestions
+- Project management through conversation
+
+### [MCPSDK](https://github.com/r-huijts/MCPSDK)
+A Swift framework for integrating MCP clients into iOS applications:
+- Easy-to-use SwiftUI components
+- Robust MCP client implementation
+- Streamlined server communication
+- Built-in state management
+
 ### [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server)
 Making train travel easier by letting people ask AI assistants natural questions about their journey:
 - "When's my next train home?"
@@ -26,8 +40,9 @@ Making art more accessible by enabling natural conversations about the Rijksmuse
 - Experience art through guided conversations
 
 ## 📊 Project Status
-- 3 active MCP servers helping people interact naturally with essential services
-- Supporting services people use daily: NS Railways, Canvas LMS, Rijksmuseum
+- 5 active MCP projects spanning development tools, SDKs, and service integration
+- Supporting both developers and end-users with natural AI interactions
+- Expanding from services to development tools
 - Constantly improving based on real user experiences
 
 ## 📚 Documentation
@@ -39,11 +54,13 @@ Making it easy for others to build human-friendly AI tools:
 
 ## 🔮 Future Plans
 - Creating more bridges between AI and everyday services
-- Making education technology more personal and accessible
+- Enhancing developer experience through AI integration
+- Building robust tools for MCP implementation
 - Developing tools that prioritize human needs
 - Building a community focused on human-friendly AI integration
 
 ## 🛠 Technologies
+- Swift & SwiftUI
 - Node.js
 - TypeScript
 - RESTful APIs
@@ -55,6 +72,7 @@ Making it easy for others to build human-friendly AI tools:
 - Creating natural interactions between people and services
 - Developing tools that solve real human problems
 - Enhancing how people experience AI in their daily lives
+- Improving developer workflows with AI assistance
 
 ## 📫 Get in Touch
 If you're interested in making AI more accessible and human-friendly, I'd love to collaborate!
