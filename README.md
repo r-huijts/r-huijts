@@ -11,13 +11,6 @@ Bringing the power of AI assistance directly into Xcode:
 - Smart code analysis and suggestions
 - Project management through conversation
 
-### [MCPSDK](https://github.com/r-huijts/MCPSDK)
-A Swift framework for integrating MCP clients into iOS applications:
-- Easy-to-use SwiftUI components
-- Robust MCP client implementation
-- Streamlined server communication
-- Built-in state management
-
 ### [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server)
 Making train travel easier by letting people ask AI assistants natural questions about their journey:
 - "When's my next train home?"
