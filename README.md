@@ -4,68 +4,72 @@ I'm a developer passionate about making AI assistants more human-friendly and ac
 
 ## 🚀 Featured Projects
 
+### [Portkey Admin MCP Server](https://github.com/r-huijts/portkey-admin-mcp-server)
+Empowering teams to manage their AI infrastructure through natural conversation:
+- Configure and manage AI workspaces intuitively
+- Monitor usage and analytics through simple queries
+- Manage user access and permissions conversationally
+- Track costs and optimize AI resource usage
+
+### [Rijksmuseum Art Explorer Suite](https://github.com/r-huijts/rijksmuseum-mcp)
+Making art more accessible through natural conversations about the Rijksmuseum collection:
+- [Server](https://github.com/r-huijts/rijksmuseum-mcp): Core API for art exploration
+- [Desktop Client](https://github.com/r-huijts/rijksmuseum-mcp-client): Electron-based interface for immersive art exploration
+- Discover artworks through natural dialogue
+- Learn about art history in an engaging way
+- Experience art through guided conversations
+
 ### [Xcode MCP Server](https://github.com/r-huijts/xcode-mcp-server)
-Bringing the power of AI assistance directly into Xcode:
+Bringing AI assistance directly into Xcode:
 - Seamless integration with development workflow
 - Natural language interaction with Xcode projects
 - Smart code analysis and suggestions
 - Project management through conversation
 
 ### [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server)
-Making train travel easier by letting people ask AI assistants natural questions about their journey:
-- "When's my next train home?"
-- Real-time updates about delays and platform changes
-- Simple journey planning in everyday language
+Making train travel easier through natural language queries:
+- Real-time journey planning in everyday language
+- Live updates about delays and platform changes
+- Simple access to travel information
+- Personalized travel assistance
 
 ### [Canvas LMS MCP Server](https://github.com/r-huijts/canvas-mcp)
-Helping students and teachers focus on learning instead of wrestling with technology:
+Helping students and teachers focus on learning:
 - Natural interaction with course materials
-- Easy assignment submission and feedback
+- Easy assignment management
 - Personalized learning support
-- Simple course management
 - Clear communication tools
 
-### [Rijksmuseum Art Explorer MCP Server](https://github.com/r-huijts/rijksmuseum-mcp)
-Making art more accessible by enabling natural conversations about the Rijksmuseum collection:
-- Discover artworks through natural dialogue
-- Learn about art history in an engaging way
-- Explore connections between artworks
-- Experience art through guided conversations
-
 ## 📊 Project Status
-- 5 active MCP projects spanning development tools, SDKs, and service integration
+- 7 active MCP projects spanning development tools, art exploration, and service integration
+- Growing ecosystem of servers and clients
 - Supporting both developers and end-users with natural AI interactions
-- Expanding from services to development tools
-- Constantly improving based on real user experiences
+- Expanding from services to comprehensive development tools
+- Building desktop applications for enhanced user experience
 
-## 📚 Documentation
-Making it easy for others to build human-friendly AI tools:
-- Clear setup guides in plain language
-- Real-world usage examples
-- Best practices for natural interactions
-- User-focused implementation tips
+## 🛠 Technologies
+- Swift & SwiftUI
+- Node.js & TypeScript
+- Electron for desktop applications
+- RESTful APIs
+- Model Context Protocol (MCP)
+- Human-centered design principles
 
 ## 🔮 Future Plans
 - Creating more bridges between AI and everyday services
 - Enhancing developer experience through AI integration
-- Building robust tools for MCP implementation
+- Expanding the MCP ecosystem with new tools and clients
+- Building robust, user-friendly implementations
 - Developing tools that prioritize human needs
-- Building a community focused on human-friendly AI integration
-
-## 🛠 Technologies
-- Swift & SwiftUI
-- Node.js
-- TypeScript
-- RESTful APIs
-- Model Context Protocol (MCP)
-- Human-centered design
+- Growing a community focused on human-friendly AI integration
 
 ## 🔍 Focus Areas
-- Making technology more accessible and human-friendly
+- Making AI technology more accessible and human-friendly
 - Creating natural interactions between people and services
-- Developing tools that solve real human problems
+- Developing solutions for real-world challenges
 - Enhancing how people experience AI in their daily lives
 - Improving developer workflows with AI assistance
+- Building comprehensive client-server solutions
 
 ## 📫 Get in Touch
 If you're interested in making AI more accessible and human-friendly, I'd love to collaborate!
