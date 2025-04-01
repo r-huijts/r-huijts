@@ -4,7 +4,15 @@ I'm a developer passionate about making AI assistants more human-friendly and ac
 
 ## 🚀 Featured MCP Projects
 
-### 🚴‍♂️ [FirstCycling MCP](https://github.com/r-huijts/firstcycling-mcp) - *NEW!*
+### 📚 [Oorlogsbronnen MCP](https://github.com/r-huijts/oorlogsbronnen-mcp) - *NEW!*
+Your historical research companion for Dutch WWII archives:
+- Access millions of historical records, photographs, and documents from 1940-1945 Netherlands
+- Natural language search across the comprehensive Oorlogsbronnen (War Sources) database
+- Research resistance movements, Holocaust victims, military operations, and daily life
+- Filter by content type (people, photographs, articles, videos) 
+- Perfect for historical research, education, family history, and cultural heritage exploration
+
+### 🚴‍♂️ [FirstCycling MCP](https://github.com/r-huijts/firstcycling-mcp)
 Your personal cycling expert, providing professional cycling data through natural conversation:
 - Comprehensive information about professional cyclists and race results
 - Track performance history and career progression of top riders
@@ -49,7 +57,7 @@ Helping students and teachers focus on learning:
 - Clear communication tools
 
 ## 📊 MCP Ecosystem Status
-- **8 active MCP projects** spanning art, education, travel, sports, and development tools
+- **9 active MCP projects** spanning history, art, education, travel, sports, and development tools
 - Complete client-server solutions with desktop applications
 - Supporting both developers and end-users with natural AI interactions
 - Regular updates and new features based on user feedback
