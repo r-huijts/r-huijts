@@ -1,97 +1,64 @@
 # Hi there 👋
 
-I'm a developer passionate about making AI assistants more human-friendly and accessible. By building Model Context Protocol (MCP) servers, I create bridges between AI and everyday services that people actually use. My focus is on making technology serve real human needs, not just technical possibilities.
+I'm a passionate educator, author, and developer on a mission to make AI assistants not just smarter, but friendlier and genuinely helpful. By crafting Model Context Protocol (MCP) servers, I'm building bridges that connect powerful AI to everyday tools and services people actually love to use. My passion lies in human-centered technology: solutions shaped by real needs, not just flashy features.
+
+Beyond coding, I teach ICT at Fontys Hogeschool, specializing in user interaction, iOS development, software engineering, and generative AI. I've also authored "Leven en Leren met AI," a study book helping students navigate and responsibly apply generative AI in their learning journeys.
 
 ## 🚀 Featured MCP Projects
 
-### 📚 [Oorlogsbronnen MCP](https://github.com/r-huijts/oorlogsbronnen-mcp) - *NEW!*
-Your historical research companion for Dutch WWII archives:
-- Access millions of historical records, photographs, and documents from 1940-1945 Netherlands
-- Natural language search across the comprehensive Oorlogsbronnen (War Sources) database
-- Research resistance movements, Holocaust victims, military operations, and daily life
-- Filter by content type (people, photographs, articles, videos) 
-- Perfect for historical research, education, family history, and cultural heritage exploration
+### 🧪 [MCP Server Tester](https://github.com/r-huijts/mcp-server-tester) - *NEWEST!*
+A robust testing companion for MCP developers that automates AI-powered testing and validation—so your servers are always reliable, conversationally savvy, and ready for prime time.
+
+### 📚 [Oorlogsbronnen MCP](https://github.com/r-huijts/oorlogsbronnen-mcp)
+Explore Dutch WWII history effortlessly through natural language. Dive deep into millions of records, photographs, and personal stories from the 1940-1945 era.
 
 ### 🚴‍♂️ [FirstCycling MCP](https://github.com/r-huijts/firstcycling-mcp)
-Your personal cycling expert, providing professional cycling data through natural conversation:
-- Comprehensive information about professional cyclists and race results
-- Track performance history and career progression of top riders
-- Analyze Grand Tour, Monument, and Stage Race results
-- Compare riders, teams, and historical race data
-- Perfect for cycling enthusiasts and sports journalists
+Your conversational cycling expert, offering deep insights into professional riders, teams, and races—all in a friendly chat format perfect for enthusiasts and journalists alike.
 
 ### 🏛️ [Rijksmuseum Art Explorer Suite](https://github.com/r-huijts/rijksmuseum-mcp)
-Making art more accessible through natural conversations about the Rijksmuseum collection:
-- [Server](https://github.com/r-huijts/rijksmuseum-mcp): Core API for art exploration
-- [Desktop Client](https://github.com/r-huijts/rijksmuseum-mcp-client): Electron-based interface for immersive art exploration
-- Discover artworks through natural dialogue
-- Learn about art history in an engaging way
-- Experience art through guided conversations
+Chat your way through the wonders of art history. Discover, explore, and learn about masterpieces from the Rijksmuseum collection through engaging conversations.
 
 ### 🔄 [Portkey Admin MCP Server](https://github.com/r-huijts/portkey-admin-mcp-server)
-Empowering teams to manage their AI infrastructure through natural conversation:
-- Configure and manage AI workspaces intuitively
-- Monitor usage and analytics through simple queries
-- Manage user access and permissions conversationally
-- Track costs and optimize AI resource usage
+Manage your AI infrastructure naturally and intuitively. Effortlessly monitor usage, configure workspaces, and optimize resources—all through simple conversation.
 
 ### 🧑‍💻 [Xcode MCP Server](https://github.com/r-huijts/xcode-mcp-server)
-Bringing AI assistance directly into Xcode:
-- Seamless integration with development workflow
-- Natural language interaction with Xcode projects
-- Smart code analysis and suggestions
-- Project management through conversation
+Bring AI intelligence right into your Xcode workflow. Code smarter, analyze projects effortlessly, and keep everything organized via natural conversation.
 
 ### 🚂 [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server)
-Making train travel easier through natural language queries:
-- Real-time journey planning in everyday language
-- Live updates about delays and platform changes
-- Simple access to travel information
-- Personalized travel assistance
+Make train travel stress-free with real-time journey updates, delay alerts, and intuitive travel planning—all through friendly, everyday language interactions.
 
 ### 🎓 [Canvas LMS MCP Server](https://github.com/r-huijts/canvas-mcp)
-Helping students and teachers focus on learning:
-- Natural interaction with course materials
-- Easy assignment management
-- Personalized learning support
-- Clear communication tools
+Helping students and educators communicate better, manage assignments, and focus more on learning—naturally and intuitively.
 
 ## 📊 MCP Ecosystem Status
-- **9 active MCP projects** spanning history, art, education, travel, sports, and development tools
-- Complete client-server solutions with desktop applications
-- Supporting both developers and end-users with natural AI interactions
-- Regular updates and new features based on user feedback
-- Each server follows standardized MCP patterns for consistent integration
+- **10 active MCP projects** across history, art, education, sports, travel, and development
+- Seamless integration with intuitive desktop clients
+- Ongoing enhancements driven by real user feedback
+- Standardized MCP patterns ensuring consistent, quality experiences
+- Dedicated developer tooling for robust testing and validation
 
 ## 🛠 Technologies
 - Swift & SwiftUI
 - Node.js & TypeScript
 - Python & FastAPI
-- Electron for desktop applications
+- Electron
 - RESTful APIs & Web Scraping
-- Model Context Protocol (MCP)
+- AI-powered testing frameworks
 - Human-centered design principles
 
-## 🔮 Future Plans
-- Expanding the MCP ecosystem with integrations for:
-  - Health & fitness tracking
-  - Home automation & IoT
-  - Financial services & budgeting
-  - Entertainment & media discovery
-- Creating more comprehensive desktop and mobile clients
-- Enhancing developer experience through improved tooling
-- Building robust documentation and community resources
-- Developing reusable MCP patterns and templates
+## 🔮 What's Next?
+- Expanding MCP integrations into health, home automation, finance, and entertainment
+- Crafting richer desktop and mobile experiences
+- Boosting developer productivity with enhanced tools
+- Cultivating community resources and comprehensive documentation
 
-## 🔍 Focus Areas
-- Making AI technology more accessible and human-friendly
-- Creating natural interactions between people and services
-- Developing solutions for real-world challenges
-- Enhancing how people experience AI in their daily lives
-- Building tools that prioritize human needs over technical complexity
+## 🔍 My Commitment
+- Crafting AI that feels approachable and genuinely helpful
+- Solving practical challenges through conversational interfaces
+- Prioritizing human-friendly tech over technical complexity
 
-## 📫 Get in Touch
-If you're interested in making AI more accessible and human-friendly, I'd love to collaborate!
+## 📫 Let's Connect!
+Passionate about making AI more accessible and friendly? I'd love to chat or collaborate!
 
 ---
 *Creating technology that serves people, one conversation at a time.*
