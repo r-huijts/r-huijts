@@ -8,7 +8,10 @@ I believe in human-centered technology – solutions shaped by real needs, not j
 
 ## 🚀 Latest MCP Projects
 
-### 🚴‍♂️ [Strava MCP](https://github.com/r-huijts/strava-mcp) - *NEW!* 
+### 🏛️ [OpenTK MCP](https://github.com/r-huijts/opentk-mcp) - *NEW!*
+Your natural language gateway to Dutch parliamentary data! Search documents, track MPs, and explore debates through conversational AI – making government transparency more accessible than ever.
+
+### 🚴‍♂️ [Strava MCP](https://github.com/r-huijts/strava-mcp)
 Turn your AI assistant into your personal cycling coach! Access your Strava activities, analyze stats, explore segments, and even generate custom workouts – all through natural conversation.
 
 ### 🏛️ [Oorlogsbronnen MCP](https://github.com/r-huijts/oorlogsbronnen-mcp)
@@ -37,7 +40,7 @@ Helping students and educators communicate better, manage assignments, and focus
 
 ## 📊 MCP Ecosystem Status
 
-- **11 active MCP projects** spanning sports, travel, education, history, art, and development
+- **12 active MCP projects** spanning sports, travel, education, government, history, art, and development
 - Comprehensive implementations following the Model Context Protocol standard
 - Support for desktop clients and seamless AI assistant integration
 - Ongoing enhancements driven by real user feedback
